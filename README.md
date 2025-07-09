@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<table style="width: 100%; border-collapse: collapse; border: none;">
+<table style="width: 100%; border: none;">
   <tr>
     <td width="48%" valign="top">
 
@@ -45,7 +45,7 @@
 
 <div align="center">
 
-<table style="width: 100%; border-collapse: collapse; border: none;">
+<table style="width: 100%; border: none;">
   <tr>
     <td width="48%" valign="top">
 
@@ -82,7 +82,7 @@
 
 <div align="center">
 
-<table style="width: 100%; border-collapse: collapse; border: none;">
+<table style="width: 100%; border: none;">
   <tr>
     <td width="48%" align="center" valign="top">
 
