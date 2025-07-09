@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<table>
+<table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
     <td width="48%" valign="top">
 
@@ -27,7 +27,7 @@
 ## 🧾 스터디 개요
 
 - **모임 방식:** 대면  
-- **일정:** 2025.07.10 ~ 2025.07.17  
+- **일정:** 2025.07.10 ~ 미정
 - **주제 도서:** 모던 리액트 Deep Dive  
 - **활동 장소:** 스터디룸/카페  
 - **기록 방식:** 발표/토론 자료를 각각  
@@ -45,11 +45,11 @@
 
 <div align="center">
 
-<table width="100%">
+<table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
     <td width="48%" valign="top">
 
-### 🎤 발표 (약 15분)
+### 📖 발표 (20분)
 
 - 발표자는 매주 번갈아가며 진행합니다.  
 - 복사/붙여넣기는 금지하며,  
@@ -61,7 +61,7 @@
 
 <td width="4%"></td>
 
-<td width="48%" valign="top">
+<td width="48%"  valign="top">
 
 ### 💬 질의응답 및 토론 (시간 제한 없음)
 - 자유로운 질문 및 토론을 진행합니다.  
@@ -82,13 +82,13 @@
 
 <div align="center">
 
-<table width="100%">
+<table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
-    <td width="48%" valign="top">
+    <td width="48%" align="center" valign="top">
 
 ## 📚 참고 도서
 
-**모던 리액트 Deep Dive written by 김용찬**
+**모던 리액트 Deep Dive (김용찬)**
 
 <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791158394646.jpg" width="200" style="border-radius: 12px;"/>
 
@@ -96,7 +96,7 @@
 
 <td width="4%"></td>
 
-<td width="48%" valign="top">
+<td width="48%" align="center" valign="top">
 
 ## 👥 참여자
 
