@@ -1,4 +1,8 @@
-# 1주차 발표 자료
-   - **주제:** 리액트의 기본 개념
-   - **내용:** 리액트의 기본 개념, 컴포넌트 기반 아키텍처, 상태 관리의 중요성 등
-   - **발표자:** 미정
+# 1.3. 클래스
+   - **내용:** 클래스의 개념, Instance Method, Static Method, Prototype Chaining 등
+   - **발표자:** 김태윤
+   - **발표 자료:** https://www.figma.com/proto/xXQWHudehiuJPHR0KNJ4rs/%EC%A0%9C%EB%AA%A9-%EC%97%86%EC%9D%8C?node-id=14-99&t=RCe6LBI8euqjwC9K-1
+# 1.4. 클로저
+   - **내용:** 클로저의 개념
+   - **발표자:** 지민성
+   - **발표 자료:** 
