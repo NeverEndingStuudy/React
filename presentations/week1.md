@@ -5,4 +5,4 @@
 # 1.4. 클로저
    - **내용:** 클로저의 개념
    - **발표자:** 지민성
-   - **발표 자료:** 
+   - **발표 자료:** https://www.figma.com/proto/AOZN3ToG6B1SXl9siPKmuT/%EC%8A%A4%ED%84%B0%EB%94%94?page-id=0%3A1&node-id=32-3&p=f&viewport=-133%2C169%2C0.06&t=Ad980HGLbGFt90nc-1&scaling=min-zoom&content-scaling=fixed
