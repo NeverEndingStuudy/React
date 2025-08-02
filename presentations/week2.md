@@ -1,4 +1,3 @@
-<img width="5334" height="3000" alt="스터디 - 클래스 컴포넌트와 함수 컴포넌트-01" src="https://github.com/user-attachments/assets/7c03fa0b-7c97-44a3-9bef-adbf18b927be" /># 2.2. 가상 DOM, 리액트 파이버
    - **내용:** 가상 DOM, 파이버 재조정, 더블 버퍼링, 리액트의 렌더링, 파이버의 작업 순서 등
    - **발표자:** 김태윤
    - <details>
