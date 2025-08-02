@@ -1,4 +1,4 @@
-# 2.2. 가상 DOM, 리액트 파이버
+<img width="5334" height="3000" alt="스터디 - 클래스 컴포넌트와 함수 컴포넌트-01" src="https://github.com/user-attachments/assets/7c03fa0b-7c97-44a3-9bef-adbf18b927be" /># 2.2. 가상 DOM, 리액트 파이버
    - **내용:** 가상 DOM, 파이버 재조정, 더블 버퍼링, 리액트의 렌더링, 파이버의 작업 순서 등
    - **발표자:** 김태윤
    - <details>
@@ -16,14 +16,24 @@
 
 
 # 2.3. 
-   - **내용:** 
+   - **내용:** 클래스 컴포넌트와 함수 컴포넌트
    - **발표자:** 지민성
-   - **발표 자료:** 
+   - <details>
+      <summary><b>발표 자료</b></summary>
+      <p>
+         <img width="5334" height="3000" alt="스터디 - 클래스 컴포넌트와 함수 컴포넌트-01" src="https://github.com/user-attachments/assets/260d3f00-4f81-4a18-bb28-57e6ed80740c" /><img width="5334" height="3000" alt="스터디 - 클래스 컴포넌트와 함수 컴포넌트-02" src="https://github.com/user-attachments/assets/50c1576b-c614-497c-9f29-da4ded8582f3" /><img width="5334" height="3000" alt="스터디 - 클래스 컴포넌트와 함수 컴포넌트-03" src="https://github.com/user-attachments/assets/463389d2-5d70-404b-a879-920439b958fc" /><img width="5334" height="3000" alt="스터디 - 클래스 컴포넌트와 함수 컴포넌트-04" src="https://github.com/user-attachments/assets/71bc2bce-65fa-4379-bb82-58a5d088ad0f" /><img width="5334" height="3000" alt="스터디 - 클래스 컴포넌트와 함수 컴포넌트-05" src="https://github.com/user-attachments/assets/e9abc54b-6bfe-4dbc-8787-674e6f6dabf6" /><img width="5334" height="3000" alt="스터디 - 클래스 컴포넌트와 함수 컴포넌트-06" src="https://github.com/user-attachments/assets/0db77309-b7fd-46d3-ba48-dacb92378aa5" />
+      </p>
+   </details>
 
 # 2.4. 
-   - **내용:** 
+   - **내용:** 리액트의 렌더링
    - **발표자:** 지민성
-   - **발표 자료:**
+   - <details>
+      <summary><b>발표 자료</b></summary>
+      <p>
+      <img width="5334" height="3000" alt="스터디 - 클래스 컴포넌트와 함수 컴포넌트-07" src="https://github.com/user-attachments/assets/9cba75c9-b930-436f-9728-f7af99454971" /><img width="5334" height="3000" alt="스터디 - 클래스 컴포넌트와 함수 컴포넌트-08" src="https://github.com/user-attachments/assets/8e39f1ec-c3b7-4230-9711-5921f7946181" /><img width="5334" height="3000" alt="스터디 - 클래스 컴포넌트와 함수 컴포넌트-09" src="https://github.com/user-attachments/assets/674bf42c-412e-42b3-89bc-979b07c0c83d" /><img width="5334" height="3000" alt="스터디 - 클래스 컴포넌트와 함수 컴포넌트-10" src="https://github.com/user-attachments/assets/e02f3554-0994-40b5-a511-88f98663ca96" />
+      </p>
+   </details>
 
 # 2.5. 메모이제이션
    - **내용:** 메모이제이션의 기초
